@@ -3,5 +3,6 @@ public class Hello {
 
         System.out.println("Hello World");
         //enhancing hello
+        System.out.println("Thanks");
     }
 }
